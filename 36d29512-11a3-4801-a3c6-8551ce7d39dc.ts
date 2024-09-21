@@ -1,0 +1,100 @@
+export default {
+  "entity": {
+    "id": "36d29512-11a3-4801-a3c6-8551ce7d39dc",
+    "name": "“四人帮”在文艺方面的反动言论",
+    "internal": false,
+    "type": "img",
+    "official": false,
+    "author": "文化部电影局恢复电影协会筹备小组联合大批判组",
+    "files": [
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/1.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/2.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/3.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/4.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/5.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/6.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/7.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/8.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/9.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/10.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/11.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/12.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/13.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/14.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/15.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/16.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/17.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/18.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/19.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/20.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/21.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/22.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/23.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/24.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/25.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/26.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/27.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/28.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/29.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/30.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/31.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/32.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/33.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/34.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/35.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/36.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/37.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/38.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/39.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/40.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/41.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/42.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/43.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/44.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/45.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/46.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/47.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/48.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/49.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/50.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/51.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/52.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/53.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/54.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/55.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/56.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/57.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/58.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/59.jpg",
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives23/main/36d29512-11a3-4801-a3c6-8551ce7d39dc/60.jpg"
+    ]
+  },
+  "parser_option": {
+    "articles": [
+      {
+        "title": "“四人帮”在文艺方面的反动言论",
+        "authors": [
+          "文化部电影局恢复电影协会筹备小组联合大批判组"
+        ],
+        "page_start": 3,
+        "page_end": 60,
+        "dates": [
+          {
+            "year": 1978,
+            "month": 5
+          }
+        ]
+      }
+    ],
+    "ocr": {
+      "extract_text_from_pdf": false,
+      "use_onnx": true,
+      "det_model_dir": "./paddle/onnx/ch_PP-OCRv4_det_infer.onnx",
+      "rec_model_dir": "./paddle/onnx/ch_PP-OCRv4_rec_infer.onnx"
+    }
+  },
+  "parser_id": "automation",
+  "path": "36d29512-11a3-4801-a3c6-8551ce7d39dc",
+  "resource_type": "book",
+  "version": 2
+}
